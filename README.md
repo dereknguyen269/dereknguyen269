@@ -1,3 +1,5 @@
+<img width="100%" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/dereknguyen.png">
+
 ### Hi there, I'm [QUAN (aka DEREK)](https://github.com/dereknguyen269) 👋
 
 🏠 I’m currently living at HCM City, Vietnam 🇻🇳. <br/>
