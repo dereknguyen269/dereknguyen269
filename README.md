@@ -9,6 +9,8 @@
 ☕️ I’m coffeer. <br/>
 ⚡ Bla bla bla...
 
+👉🏻 ![Visitor Count](https://profile-counter.glitch.me/dereknguyen269/count.svg)
+
 **Back-end**
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/ruby.png"></code>
@@ -44,4 +46,5 @@
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/vim.png"></code>
 
 [![DEREK's github stats](https://github-readme-stats.vercel.app/api?username=dereknguyen269&show_icons=true&theme=merko)](https://github.com/dereknguyen269)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dereknguyen269&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dereknguyen269&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
