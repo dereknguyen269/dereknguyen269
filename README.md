@@ -1,9 +1,9 @@
 <img width="100%" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/dereknguyen.png">
 
-### Hi there, I'm [QUAN (aka DEREK)](https://github.com/dereknguyen269) 👋
+### Hi there, I'm DEREK (https://github.com/dereknguyen269) 👋
 
 🏠 I’m currently living at HCM City, Vietnam 🇻🇳. <br/>
-👨‍💻 I’m currently working as a Full-stack Developer.<br/>
+👨‍💻 I’m currently working as a Software Developer.<br/>
 🔭 I’m currently working on my pet projects.<br/>
 🌱 I’m currently learning English 🤦‍♂.<br/>
 ☕️ I’m coffeer. <br/>
