@@ -1,4 +1,5 @@
-<img width="100%" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/dereknguyen.png">
+<!-- <img width="100%" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/dereknguyen.png"> -->
+[![@dereknguyen269's Holopin board](https://holopin.me/dereknguyen269)](https://holopin.io/@dereknguyen269)
 
 ### Hi there, I'm [DEREK](https://github.com/dereknguyen269) 👋
 
