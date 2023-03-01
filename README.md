@@ -1,6 +1,3 @@
-<!-- <img width="100%" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/dereknguyen.png"> -->
-[![@dereknguyen269's Holopin board](https://holopin.me/dereknguyen269)](https://holopin.io/@dereknguyen269)
-
 ### Hi there, I'm [DEREK](https://github.com/dereknguyen269) 👋
 
 🏠 I’m currently living at HCM City, Vietnam 🇻🇳. <br/>
@@ -47,5 +44,4 @@
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/vim.png"></code>
 
 [![DEREK's github stats](https://github-readme-stats.vercel.app/api?username=dereknguyen269&show_icons=true&theme=merko)](https://github.com/dereknguyen269)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dereknguyen269&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
