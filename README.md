@@ -1,47 +1,40 @@
-### Hi there, I'm [DEREK](https://github.com/dereknguyen269) 👋
+<h1 align="left" id="macropower-title">👋 Hello there! I'm Derek</h1>
+<p align="left">
+  <a href="https://github.com/dereknguyen269">
+    <img src="https://komarev.com/ghpvc/?username=dereknguyen269" alt="page views">
+  </a>
+  <a href="https://github.com/dereknguyen269?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/dereknguyen269?color=green&logo=github">
+  </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
+</p>
 
-🏠 I’m currently living at HCM City, Vietnam 🇻🇳. <br/>
-👨‍💻 I’m currently working as a Software Developer.<br/>
-🔭 I’m currently working on my pet projects.<br/>
-🌱 I’m currently learning English 🤦‍♂.<br/>
-☕️ I’m coffeer. <br/>
-⚡ Bla bla bla...
+<a href="#dereknguyen269-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=dereknguyen269&show_icons=true" alt="dereknguyen269" align="right" />
+</a>
 
-👉🏻 ![Visitor Count](https://profile-counter.glitch.me/dereknguyen269/count.svg)
+- 🏠 I’m currently living at HCM City, Vietnam 🇻🇳.
+- 👨‍💻 I’m currently working as a Software Engineer.
+- 🔭 I’m currently working on my pet projects.
+- 🎮 I love Dota 2.
+- ☕️ I’m coffeer.
 
-**Back-end**
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/ruby.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/rails.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/go.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/elixir.png"></code>
+```ruby
+CONST DEREK = {
+  pronouns: "He" | "him",
+  backend: ["Ruby", "Nodejs", "Go"],
+  frontend: ["HTML", "Javascript", "ReactJs", "CSS"],
+  database: ["Postgresql", "mySQL", "Redis"],
+  "cloud-server": ["AWS", "Gcloud", "DigitalOcean", "Heroku"],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  challenge: "I am doing All-In-One Toolbox for Developers. It's Muerta Toolbox."
+}
+```
 
-**Front-end**
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
-
-**Databases**
-
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/postgresql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/mysql.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/redis.png"></code>
-
-**Cloud Servers**
-
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/aws.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/gcloud.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/DigitalOcean.png"></code>
-
-**Tools**
-
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/docker.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/atom.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/vim.png"></code>
-
-[![DEREK's github stats](https://github-readme-stats.vercel.app/api?username=dereknguyen269&show_icons=true&theme=merko)](https://github.com/dereknguyen269)
-
+---
