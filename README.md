@@ -15,11 +15,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dereknguyen269&show_icons=true" alt="dereknguyen269" align="right" />
 </a>
 
-- :house: I’m currently living at HCM City, Vietnam 🇻🇳.
-- :computer: I’m currently working as a Software Engineer.
-- :dart: I’m currently working on my pet projects.
+- :house: I'm currently living at HCM City, Vietnam 🇻🇳.
+- :computer: I'm currently working as a Software Engineer.
+- :dart: I'm currently working on my pet projects.
 - :video_game: I love Dota 2.
-- :coffee: I’m coffeer.
+- :coffee: I'm coffeer.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
