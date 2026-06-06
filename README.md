@@ -31,9 +31,7 @@ I'm also exploring other small developer-product experiments around useful, publ
 
 ### GitHub signal
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dereknguyen269&show_icons=true&hide_border=true&theme=github_dark" alt="Derek Nguyen GitHub stats" />
-</p>
+Browse my [repositories](https://github.com/dereknguyen269?tab=repositories) or recent [public activity](https://github.com/dereknguyen269?tab=overview) for the current trail of projects and experiments.
 
 ---
 
