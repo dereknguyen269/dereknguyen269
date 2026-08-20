@@ -8,7 +8,7 @@ I'm a software engineer in Ho Chi Minh City building practical developer utiliti
 
 ### Now building
 
-[**Toolover**](https://toolover.work) is my current product focus: a suite of free browser-first developer tools for JSON, code formatting, API helpers, text utilities, and everyday workflow cleanup.
+[**Toolover**](https://thetoolover.com) is my current product focus: a suite of free browser-first developer tools for JSON, code formatting, API helpers, text utilities, and everyday workflow cleanup.
 
 I'm also exploring other small developer-product experiments around useful, public, no-login software.
 
@@ -34,7 +34,7 @@ I'm also exploring other small developer-product experiments around useful, publ
 
 ### Around the web
 
-- Building: [toolover.work](https://toolover.work)
+- Building: [thetoolover.com](https://thetoolover.com)
 - Writing: [dereknguyen.substack.com](https://dereknguyen.substack.com)
 - Social: [x.com/dereknguyen269](https://x.com/dereknguyen269)
 - GitHub: [@dereknguyen269](https://github.com/dereknguyen269)
