@@ -20,9 +20,18 @@ I’m a software engineer and indie builder based in **Ho Chi Minh City, Vietnam
 
 ### [TOOlover — free browser developer tools](https://thetoolover.com)
 
-A browser-first toolbox for the small jobs that interrupt a developer’s flow: JSON formatting and validation, conversion and diffing, webhook testing, JWT inspection, secret generation, Markdown and HTML previews, text utilities, and lightweight system simulations. It is free to use and does not require signup.[^1]
+Stop losing momentum to one-off scripts, tab-hunting, and repetitive cleanup. **TOOlover puts the small developer utilities you need in one fast, free browser toolbox—no signup required.**
 
-The current focus is simple: **make everyday developer work feel lighter.**
+Use it to format and validate JSON, compare or convert data, test webhooks, inspect JWTs, generate secure secrets, preview Markdown and HTML, clean up text, and explore lightweight system simulations.[^1]
+
+<p>
+  <a href="https://thetoolover.com/apps"><img src="https://img.shields.io/badge/JSON-format%20%26%20validate-0F172A?style=flat-square&logo=json&logoColor=white" alt="TOOlover JSON tools" /></a>
+  <a href="https://thetoolover.com/developer/webhook-sender"><img src="https://img.shields.io/badge/Webhooks-test%20endpoints-0F172A?style=flat-square&logo=webhooks&logoColor=white" alt="TOOlover webhook tools" /></a>
+  <a href="https://thetoolover.com/security/jwt-decoder"><img src="https://img.shields.io/badge/Security-inspect%20%26%20generate-0F172A?style=flat-square&logo=letsencrypt&logoColor=white" alt="TOOlover security tools" /></a>
+  <a href="https://thetoolover.com/content/markdown-viewer"><img src="https://img.shields.io/badge/Text-preview%20%26%20transform-0F172A?style=flat-square&logo=markdown&logoColor=white" alt="TOOlover text tools" /></a>
+</p>
+
+**Try a tool, solve the interruption, and get back to building.** [Open TOOlover →](https://thetoolover.com/apps)
 
 ## Selected work
 
@@ -59,10 +68,22 @@ These profile signals are read from my public GitHub profile and may change over
 
 <p align="center">
   <a href="https://github.com/dereknguyen269">
-    <img src="https://github-readme-stats.vercel.app/api?username=dereknguyen269&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Derek Nguyen's GitHub statistics" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dereknguyen269&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" alt="Derek Nguyen's GitHub statistics" height="170" />
   </a>
   <a href="https://github.com/dereknguyen269">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dereknguyen269&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Derek Nguyen's most used programming languages" height="170" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dereknguyen269">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dereknguyen269&theme=github-dark-blue&hide_border=true" alt="Derek Nguyen's GitHub contribution streak" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dereknguyen269">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dereknguyen269&bg_color=0d1117&color=58a6ff&line=2f81f7&point=f0f6fc&area=true&hide_border=true" alt="Derek Nguyen's GitHub contribution graph" width="100%" />
   </a>
 </p>
 
