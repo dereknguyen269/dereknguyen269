@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/builder-console.svg" alt="Derek Nguyen builds tools that remove tiny developer frictions" width="100%" />
+  <img src="./assets/builder-console.png" alt="Derek Nguyen builds tools that remove tiny developer frictions" width="100%" />
 </p>
 
 <p align="center">
