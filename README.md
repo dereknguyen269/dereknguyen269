@@ -65,25 +65,9 @@ Use it to format and validate JSON, compare or convert data, test webhooks, insp
 These profile signals are read from my public GitHub profile and may change over time.[^2] For always-current activity, visit my [repositories](https://github.com/dereknguyen269?tab=repositories) and [profile overview](https://github.com/dereknguyen269?tab=overview).
 
 ## GitHub activity
-
-<p align="center">
-  <a href="https://github.com/dereknguyen269">
-    <img src="https://github-readme-stats.vercel.app/api?username=dereknguyen269&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" alt="Derek Nguyen's GitHub statistics" height="170" />
-  </a>
-  <a href="https://github.com/dereknguyen269">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dereknguyen269&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Derek Nguyen's most used programming languages" height="170" />
-  </a>
-</p>
-
 <p align="center">
   <a href="https://github.com/dereknguyen269">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dereknguyen269&theme=github-dark-blue&hide_border=true" alt="Derek Nguyen's GitHub contribution streak" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/dereknguyen269">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dereknguyen269&bg_color=0d1117&color=58a6ff&line=2f81f7&point=f0f6fc&area=true&hide_border=true" alt="Derek Nguyen's GitHub contribution graph" width="100%" />
   </a>
 </p>
 
